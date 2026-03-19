@@ -80,9 +80,10 @@ Helps students and job seekers improve their resumes and increase their chances 
 
 ## 👥 Team
 
-* Your Name
-* Team Member 2
-* Team Member 3
+* Punyashree MG
+* Dhruva S Ram
+* Shreya MS
+* Hithaishi M
 
 ---
 
